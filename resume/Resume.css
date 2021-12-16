@@ -1,0 +1,55 @@
+body{
+    background:cover;
+    font-family:cursive;
+    background-color: aliceblue;
+}
+header{
+    text-align: center;
+    font-size: xx-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+}
+.topmenu{
+    width: 100%;
+    background-color:azure;
+    padding:5px;
+}
+.mainbody{
+    width:100%;
+    background-color:white;}
+
+.leftbody{
+    width: 50%;
+    background-color:white;
+    
+}
+table{
+    border-collapse: collapse;
+    width:100%;
+    text-align: center;
+}
+th ,td{
+    border: 2px solid grey;
+    background-color: aliceblue;}
+th{
+    background-color: cornflowerblue;
+}
+td{
+    background-color:greenyellow;
+}
+.bottombody{
+    background-color: azure;
+    width: 100%;
+}
+@media only screen and(max-width:768px) {
+    body{
+        width: 5%;
+        font-size: large;
+        background-color: beige;
+    }
+    
+}
+
+
+
+    
